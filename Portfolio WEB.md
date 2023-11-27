@@ -20,15 +20,13 @@ melvin fernandes <br>
 informatietechnologie
 
 
-
-
-![magento](https://github.com/melvinrs2018/portfolio/assets/40876287/8238f710-64e3-4c4b-9fec-11927e60a3c0)
-![JS](https://github.com/melvinrs2018/portfolio/assets/40876287/86bed34b-047f-4200-a703-55f88d5c9155)
-![JQ](https://github.com/melvinrs2018/portfolio/assets/40876287/e4c5c1ae-ab72-462f-9ad9-fd5190f8f52f)
-![html](https://github.com/melvinrs2018/portfolio/assets/40876287/550a1b8d-e413-43fc-b966-a877487c6615)
-![fundation](https://github.com/melvinrs2018/portfolio/assets/40876287/ba136245-2888-4f1c-9318-e7d732c46323)
-![elementor](https://github.com/melvinrs2018/portfolio/assets/40876287/fcca8316-99b1-4554-ba46-5f0395dccdeb)
-![css](https://github.com/melvinrs2018/portfolio/assets/40876287/c62ae10a-1019-4293-aadb-924a92bda33f)
-![bootstrap](https://github.com/melvinrs2018/portfolio/assets/40876287/cf94c7e8-7066-40d7-a1bb-82a648a5d515)
-![wordpress](https://github.com/melvinrs2018/portfolio/assets/40876287/b5e17bdb-fefa-4448-8c23-96d684fec3b2)
-![PS](https://github.com/melvinrs2018/portfolio/assets/40876287/afbe3df2-3367-41fd-b700-2ba92c350d99)
+![html](https://github.com/melvinrs2018/portfolio/assets/40876287/ea87e642-d3a7-42d7-9f3b-66ca4ce8d4c2)
+![fundation](https://github.com/melvinrs2018/portfolio/assets/40876287/eb78e6b1-ab94-43ef-a72d-2e78a0803e9e)
+![elementor](https://github.com/melvinrs2018/portfolio/assets/40876287/c33c08b2-fff7-4d8e-9430-f0a24a3f2f5a)
+![css](https://github.com/melvinrs2018/portfolio/assets/40876287/cab70262-ac97-45d5-9924-b950ce8e4c47)
+![bootstrap](https://github.com/melvinrs2018/portfolio/assets/40876287/699c60dc-d079-4d53-be29-43e6627b8705)
+![wordpress](https://github.com/melvinrs2018/portfolio/assets/40876287/7905f0b1-65c3-41c7-8fba-d01dca3d6130)
+![PS](https://github.com/melvinrs2018/portfolio/assets/40876287/c4366b96-a6df-48e3-bcc7-c215c5b05298)
+![magento](https://github.com/melvinrs2018/portfolio/assets/40876287/c93055b3-ef5b-4fd4-a30f-eb8dbec988a5)
+![JS](https://github.com/melvinrs2018/portfolio/assets/40876287/53dbc42d-2d7f-4a90-bf73-cf0d541b3154)
+![JQ](https://github.com/melvinrs2018/portfolio/assets/40876287/fbd230a5-548d-451b-a932-67e805ed6e30)
